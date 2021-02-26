@@ -1,0 +1,22 @@
+/* Card Loupblanc */
+
+.card-loupblanc {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, .1);
+    margin: 20px;
+}
+
+.card-loupblanc img {
+    height: 240px;
+    width: 360px;
+    object-fit: cover;
+}
+
+.card-loupblanc h3 {
+    padding-left: 20px;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+
